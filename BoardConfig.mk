@@ -1,5 +1,5 @@
 # Device path
-LOCAL_PATH := device/infinix/X604
+LOCAL_PATH := device/Infinix/X604
 
 RECOVERY_VARIANT := twrp
 AB_OTA_UPDATER := true
